@@ -1,0 +1,23 @@
+[
+    {
+        "name": "E-Campus",
+        "image" : "./assets/img/e-campus.png",
+        "github" : "https://github.com/vignesh-ajri/",
+        "demo" : "https://github.com/vignesh-ajri/",
+        "status" : "Completed"
+    },
+    {
+        "name": "Nature's Cure",
+        "image" : "./assets/img/n-Cure.png",
+        "github" : "https://github.com/vignesh-ajri/",
+        "demo" : "https://github.com/vignesh-ajri/",
+        "status" : "Developing"
+    },
+    {
+        "name": "To-Do-List: React",
+        "image" : "./assets/img/todo.png",
+        "github" : "https://github.com/vignesh-ajri/",
+        "demo" : "https://github.com/vignesh-ajri/",
+        "status" : "Completed"
+    }
+]
