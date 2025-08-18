@@ -9,8 +9,6 @@ This portfolio showcases my projects and skills. Feel free to explore!
 - HTML
 - CSS
 - JavaScript
-- Python
-- Django etc
 
 ## Projects
 - **E-Campus**: A web application for managing campus activities.
