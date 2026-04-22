@@ -39,7 +39,7 @@
         "name": "Car Scrolling Animation (React)",
         "image": "./assets/img/car-animation.png",
         "github": "https://github.com/Vignesh-Ajri/car-scrolling-animation",
-        "demo": "",
+        "demo": "https://vignesh-ajri.github.io/car-scrolling-animation",
         "status": "Completed",
         "description": "Interactive scroll-based animation built using React functional components with optimized performance and smooth UI transitions.",
         "tech": ["React", "JavaScript", "CSS"]
