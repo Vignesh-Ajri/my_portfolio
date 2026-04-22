@@ -1,62 +1,102 @@
 [
     {
-        "name" : "HTML",
-        "image" : "https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
+        "name": "HTML",
+        "image": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
         "status": "Advanced"
     },
     {
-        "name" : "CSS",
-        "image" : "https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000",
+        "name": "CSS",
+        "image": "https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000",
         "status": "Advanced"
-    }, 
+    },
     {
-        "name" : "JavaScript",
-        "image" : "https://img.icons8.com/?size=100&id=106036&format=png&color=E7B33F",
+        "name": "JavaScript",
+        "image": "https://img.icons8.com/?size=100&id=106036&format=png&color=E7B33F",
+        "status": "Advanced"
+    },
+    {
+        "name": "React",
+        "image": "https://img.icons8.com/?size=100&id=123603&format=png&color=000000",
+        "status": "Advanced"
+    },
+    {
+        "name": "Tailwind CSS",
+        "image": "https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000",
         "status": "Intermediate"
     },
     {
-        "name" : "React",
-        "image" : "https://img.icons8.com/?size=100&id=123603&format=png&color=000000",
+        "name": "Node.js",
+        "image": "https://img.icons8.com/?size=100&id=54087&format=png&color=000000",
         "status": "Intermediate"
     },
     {
-        "name" : "Git",
-        "image" : "https://img.icons8.com/?size=100&id=20906&format=png&color=000000",
+        "name": "Express.js",
+        "image": "https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000",
         "status": "Intermediate"
     },
     {
-        "name" : "Github",
-        "image" : "https://img.icons8.com/?size=100&id=62856&format=png&color=000000",
+        "name": "Python",
+        "image": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000",
         "status": "Intermediate"
     },
     {
-        "name" : "Python",
-        "image" : "https://img.icons8.com/?size=100&id=13441&format=png&color=000000",
+        "name": "Django",
+        "image": "https://img.icons8.com/?size=100&id=baihjTL3IBX9&format=png&color=000000",
         "status": "Intermediate"
     },
     {
-        "name" : "Django",
-        "image" : "https://img.icons8.com/?size=100&id=baihjTL3IBX9&format=png&color=000000",
+        "name": "Django REST Framework",
+        "image": "https://img.icons8.com/?size=100&id=L2BIxcHALyQG&format=png&color=000000",
         "status": "Intermediate"
     },
     {
-        "name" : "Django REST Framework",
-        "image" : "https://img.icons8.com/?size=100&id=L2BIxcHALyQG&format=png&color=000000",
+        "name": "Java",
+        "image": "https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000",
         "status": "Intermediate"
     },
     {
-        "name" : "MySQL",
-        "image" : "https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000",
+        "name": "Spring Boot",
+        "image": "https://img.icons8.com/?size=100&id=90519&format=png&color=000000",
         "status": "Intermediate"
     },
     {
-        "name" : "Java",
-        "image" : "https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000",
+        "name": "MySQL",
+        "image": "https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000",
         "status": "Intermediate"
     },
     {
-        "name" : "C",
-        "image" : "https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000",
+        "name": "MongoDB",
+        "image": "https://img.icons8.com/?size=100&id=74402&format=png&color=000000",
+        "status": "Intermediate"
+    },
+    {
+        "name": "Git",
+        "image": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000",
+        "status": "Advanced"
+    },
+    {
+        "name": "GitHub",
+        "image": "https://img.icons8.com/?size=100&id=62856&format=png&color=000000",
+        "status": "Advanced"
+    },
+    {
+        "name": "Docker",
+        "image": "https://img.icons8.com/?size=100&id=22813&format=png&color=000000",
+        "status": "Intermediate"
+    },
+    {
+        "name": "Kubernetes",
+        "image": "https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000",
+        "status": "Beginner"
+    },
+    {
+        "name": "Jenkins",
+        "image": "https://img.icons8.com/?size=100&id=39292&format=png&color=000000",
+        "status": "Intermediate"
+    },
+    {
+        "name": "AWS",
+        "image": "https://img.icons8.com/?size=100&id=33039&format=png&color=000000",
         "status": "Intermediate"
     }
 ]
