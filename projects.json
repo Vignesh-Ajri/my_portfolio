@@ -1,23 +1,74 @@
 [
     {
-        "name": "E-Campus",
-        "image" : "./assets/img/e-campus.png",
-        "github" : "https://github.com/vignesh-ajri/",
-        "demo" : "https://github.com/vignesh-ajri/",
-        "status" : "Completed"
+        "name": "E-Campus (Study Resource Hub)",
+        "image": "./assets/img/e-campus.png",
+        "github": "https://github.com/Vignesh-Ajri/",
+        "demo": "",
+        "status": "Completed",
+        "description": "Full-stack academic platform built with React and Node.js/Express to centralize study materials. Includes REST APIs, user management, and secure content access.",
+        "tech": ["React", "Node.js", "Express", "MongoDB"]
+    },
+    {
+        "name": "Full-Stack Quiz Application",
+        "image": "./assets/img/quiz.png",
+        "github": "https://github.com/Vignesh-Ajri/quiz",
+        "demo": "",
+        "status": "Completed",
+        "description": "Online quiz platform with authentication, quiz management, and automated scoring. Built using React frontend and Node.js/Express backend with MongoDB.",
+        "tech": ["React", "Node.js", "Express", "MongoDB"]
+    },
+    {
+        "name": "Portfolio Website (React + Vite)",
+        "image": "./assets/img/portfolio-react.png",
+        "github": "https://github.com/Vignesh-Ajri/portfolio-app",
+        "demo": "https://vignesh-ajri.github.io/portfolio-app/",
+        "status": "Completed",
+        "description": "High-performance portfolio built with React and Vite featuring lazy loading, responsive design, and SEO optimization.",
+        "tech": ["React", "Vite", "Tailwind CSS"]
+    },
+    {
+        "name": "Personal Portfolio Website",
+        "image": "./assets/img/portfolio.png",
+        "github": "https://github.com/Vignesh-Ajri/my_portfolio",
+        "demo": "https://vigneshajri.pages.dev/",
+        "status": "Completed",
+        "description": "Responsive personal portfolio built using HTML, CSS, and JavaScript with performance optimization and SEO best practices.",
+        "tech": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+        "name": "Car Scrolling Animation (React)",
+        "image": "./assets/img/car-animation.png",
+        "github": "https://github.com/Vignesh-Ajri/car-scrolling-animation",
+        "demo": "",
+        "status": "Completed",
+        "description": "Interactive scroll-based animation built using React functional components with optimized performance and smooth UI transitions.",
+        "tech": ["React", "JavaScript", "CSS"]
+    },
+    {
+        "name": "Student Management REST API (Spring Boot)",
+        "image": "./assets/img/spring-api.png",
+        "github": "https://github.com/Vignesh-Ajri/springboot-starter-api",
+        "demo": "",
+        "status": "Completed",
+        "description": "Backend REST API built with Java Spring Boot featuring layered architecture, validation, global exception handling, and H2 database.",
+        "tech": ["Java", "Spring Boot", "REST API"]
     },
     {
         "name": "Nature's Cure",
-        "image" : "./assets/img/n-Cure.png",
-        "github" : "https://github.com/vignesh-ajri/",
-        "demo" : "https://github.com/vignesh-ajri/",
-        "status" : "Developing"
+        "image": "./assets/img/n-Cure.png",
+        "github": "https://github.com/Vignesh-Ajri/",
+        "demo": "",
+        "status": "In Progress",
+        "description": "Health-focused web application currently under development, aiming to provide user-friendly solutions with modern UI and scalable backend.",
+        "tech": ["React", "Node.js"]
     },
     {
-        "name": "To-Do-List: React",
-        "image" : "./assets/img/todo.png",
-        "github" : "https://github.com/vignesh-ajri/",
-        "demo" : "https://github.com/vignesh-ajri/",
-        "status" : "Completed"
+        "name": "React Learning Journey",
+        "image": "./assets/img/react-learning.png",
+        "github": "https://github.com/Vignesh-Ajri/react-learning-journey",
+        "demo": "",
+        "status": "Completed",
+        "description": "Collection of React projects demonstrating hooks, routing, state management, and performance optimization techniques.",
+        "tech": ["React"]
     }
 ]
