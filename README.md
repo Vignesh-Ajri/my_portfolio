@@ -10,9 +10,5 @@ This portfolio showcases my projects and skills. Feel free to explore!
 - CSS
 - JavaScript
 
-## Projects
-- **E-Campus**: A web application for managing campus activities.
-- **Nature's Cure**: A platform for sharing natural remedies.
-
 ## Contact
 You can reach me at [ssvignesh2003@gmail.com](mailto:ssvignesh2003@gmail.com).
